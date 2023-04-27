@@ -308,6 +308,32 @@ section .title::after{
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
+/* certificates */
+.ach{
+    margin: 50px 55px;
+    padding: 25px 20px;
+}
+.link{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 5px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    display:block;
+}
+.link:hover{
+    background-color: cyan;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    border-radius: 50%;
+}
+
 
 /* skills section styling */
 
